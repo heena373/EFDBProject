@@ -1,0 +1,6 @@
+@DBoperationsWIthEFCore_VS2022_HostAddress = http://localhost:5077
+
+GET {{DBoperationsWIthEFCore_VS2022_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
